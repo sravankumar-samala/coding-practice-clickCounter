@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.container {
+  max-width: 700px;
+  padding: 1em;
+  text-align: center;
+}
+.button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.7em 1.4em;
+  border-radius: 7px;
+  font-weight: bold;
+}
+h1 {
+  color: #2d3a35;
+}
+.click-num {
+  color: #c20a72;
+}
